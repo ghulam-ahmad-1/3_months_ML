@@ -2,8 +2,8 @@
 <p align = "center">
    <img src="ML.jpeg" >
 </p>
-<p>Hello ! I am Ghulam Ahmad . Undergraduate Student and has a keen interest in Artificial Intellugence . This is my 3 months course whch i am Doing right now . I have uploaded my Practices on the GitHub and 
-This is a Roadmap to Artificial Intellignce which is a very vast fiel for study , I've Started this with Machine Learning </p>
+<p>Hello ! I am Ghulam Ahmad , an  Undergraduate Student with the keen interest in Artificial Intelligence . This is my 3 months course whch i am Doing right now . I have uploaded my Practices on the GitHub and 
+This is a Roadmap to Artificial Intellignce which is a very vast field to study , I've Started this with Machine Learning </p>
 <ol>
  <li><h4>Python:</h4> 
     <p>In python you have to do the Basics and Most important are Lists and you should have the Concepts of OOP's although its not that much used in the Artificial Intelligence's field </p>
